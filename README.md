@@ -1,7 +1,7 @@
 
 <h3 align="center">Hey! 👋 This is George Davis IV. 😄 </h3>
 
-<h4 align="center">Digital Media Manager, Web/App Developer, and AI Enthusiast</h4>
+<h4 align="center">Digital Media Manager, Web/iOS+macOS App Developer, and AI Enthusiast</h4>
 
 </br>
 <p align="center">
