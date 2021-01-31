@@ -19,7 +19,7 @@ Entrepreneur with extensive experience in Digital Strategy and Information Syste
 #### Tools:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="35" src="https://www.kali.org/wp-content/uploads/2019/12/kali-square.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://git-scm.com/images/logos/logomark-white@2x.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="35" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
 <code><img height="35" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials.png"></code>
