@@ -27,7 +27,7 @@ Entrepreneur with extensive experience in Digital Strategy and Information Syste
 </br>
 
 - 🌱 <b>Getting better at:</b> iOS/macOS App Development, CyberSecurity, Python, Agile Software Development, Artificial Intelligence: Implementation for Business Strategy
-- 📫 <b>Contact me here:</b> Shoot an email at <a href="mailto:gdavisiv.mail@gmail.com" target="_blank">gdavisiv.mail@gmail.com</a>
+- 📫 <b>Contact me here:</b><a href="mailto:gdavisiv.mail@gmail.com" target="_blank"> gdavisiv.mail@gmail.com</a>
 
 </br>
 <p align='center'>
