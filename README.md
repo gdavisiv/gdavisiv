@@ -16,8 +16,17 @@ Entrepreneur with extensive experience in Digital Strategy and Information Syste
 
 </br>
 
+#### Tools:
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="35" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
+<code><img height="35" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials.png"></code>
+
+</br>
+
 - 🌱 <b>Getting better at:</b> iOS/macOS App Development, CyberSecurity, Python, Agile Software Development, Artificial Intelligence: Implementation for Business Strategy
-- 📫 <b>Contact me here:</b> Shoot a mail at <a href="mailto:gdavisiv.mail@gmail.com" target="_blank">gdavisiv.mail@gmail.com</a>
+- 📫 <b>Contact me here:</b> Shoot an email at <a href="mailto:gdavisiv.mail@gmail.com" target="_blank">gdavisiv.mail@gmail.com</a>
 
 </br>
 <p align='center'>
