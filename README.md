@@ -12,7 +12,7 @@
 
 Things you should know about me:
 
-Entrepreneur with extensive experience in Digital Strategy and Information Systems. George is a charismatic business professional with an innovative mindset who brings over +10 years of experience managing digital media technology for websites, UX, social media, 3D/AR/VR, videography and photography. He has demonstrated expertise in transitioning a vision into the digital products needed, in an ever evolving digital world, by building and developing high performance cross-functional technical processes and teams. 
+Leader with extensive experience in Digital Strategy and Information Systems. George is a charismatic business professional with an innovative mindset who brings over +10 years of experience managing digital media technology for websites, UX, social media, 3D/AR/VR, videography and photography. He has demonstrated expertise in transitioning a vision into the digital products needed, in an ever evolving digital world, by building and developing high performance cross-functional technical processes and teams. 
 
 </br>
 
