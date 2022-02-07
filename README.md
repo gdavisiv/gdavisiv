@@ -30,6 +30,4 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 - 📫 <b>Contact me here:</b><a href="mailto:gdavisiv.mail@gmail.com" target="_blank"> gdavisiv.mail@gmail.com</a>
 
 </br>
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=gdavisiv.visitor-badge">
-<p/>
+<script src="https://tryhackme.com/badge/790553"></script>
