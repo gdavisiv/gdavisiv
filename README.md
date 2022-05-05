@@ -31,4 +31,4 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 
 </br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/gdavisiv.png" alt="TryHackMe">  
-<code><img height="35" src="https://app.hackthebox.com/images/logos/logo-htb.svg"> https://app.hackthebox.com/profile/821383</code>
+<code><img height="35" src="https://app.hackthebox.com/images/logos/logo-htb.svg"><a href ="https://app.hackthebox.com/profile/821383">GDavisIV</a></code>
