@@ -30,7 +30,5 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 - 📫 <b>Contact me here:</b><a href="mailto:gdavisiv.mail@gmail.com" target="_blank"> gdavisiv.mail@gmail.com</a>
 
 </br>
- <img src="https://tryhackme-badges.s3.amazonaws.com/gdavisiv.png" alt="TryHackMe"> 
- 
- <code><img height="35" src= "https://www.hackthebox.com/images/logo-htb.svg"></code> 
- [ ![gdavisiv](https://www.hackthebox.eu/badge/image/42767)](https://app.hackthebox.com/profile/821383)
+ <img src="https://tryhackme-badges.s3.amazonaws.com/gdavisiv.png" alt="TryHackMe">  
+<code><img height="35" src="https://app.hackthebox.com/images/logos/logo-htb.svg"> https://app.hackthebox.com/profile/821383</code>
