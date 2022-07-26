@@ -1,7 +1,7 @@
 
 <h3 align="center">Hey! 👋 This is George Davis IV. 😄 </h3>
 
-<h4 align="center">Digital Media Manager, Web/iOS+macOS Developer, and AI Enthusiast</h4>
+<h4 align="center">Full Stack Web Dev, iOS/macOS Developer, and Computer Vision AI Enthusiast</h4>
 
 </br>
 <p align="center">
@@ -12,7 +12,7 @@
 
 Things you should know about me:
 
-Leader with extensive experience in Digital Strategy and Information Systems. George is a charismatic business professional with an innovative mindset who brings over +10 years of experience managing digital media technology for websites, UX, social media, 3D/AR/VR, videography and photography. He has demonstrated expertise in transitioning a vision into the digital products needed, in an ever evolving digital world, by building and developing high performance cross-functional technical processes and teams. 
+Leader with extensive experience in Digital Strategy and Information Systems. George is a charismatic business professional with an innovative mindset who brings over +10 years of experience managing Digital Media technology for Websites, iOS Apps, UX/UI Design, 3D/AR/VR, videography and photography. He has demonstrated expertise in transitioning a vision into the digital products needed, in an ever evolving digital world, by building and developing high performance cross-functional technical processes and teams. 
 
 </br>
 
