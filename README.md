@@ -42,3 +42,5 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 
 - 🤖 <b>My Website:</b><a href="https://www.3DMations.com"> 3DMations.com</a>
 - 📫 <b>Contact me here:</b><a href="mailto:gdavisiv@3dmations.com" target="_blank"> GDavisIV@3DMations.com</a>
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
