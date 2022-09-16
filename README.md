@@ -44,3 +44,4 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 - 📫 <b>Contact me here:</b><a href="mailto:gdavisiv@3dmations.com" target="_blank"> GDavisIV@3DMations.com</a>
 
 ![Visitor Count](https://profile-counter.glitch.me/gdavisiv/count.svg)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=gdavisiv)
