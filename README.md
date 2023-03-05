@@ -30,7 +30,7 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Three.JS-informational?style=flat&logo=threejs&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Next.JS-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Next.JS-informational?style=flat&logo=nextjs&logoColor=white&color=3bac3a)
 <br>
 ![](https://img.shields.io/badge/Framework-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Babylon.js-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
