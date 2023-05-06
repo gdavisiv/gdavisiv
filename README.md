@@ -54,4 +54,4 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=gdavisiv)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
