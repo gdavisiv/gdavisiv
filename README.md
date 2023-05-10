@@ -54,4 +54,4 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 - 📫 <b>Contact me here:</b><a href="mailto:gdavisiv@3dmations.com" target="_blank"> GDavisIV@3DMations.com</a>
 
 
-![](https://komarev.com/ghpvc/?username=gdavisiv&color=green)
+![](https://komarev.com/ghpvc/?username=gdavisiv&color=brightgreen)
