@@ -55,4 +55,3 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 
 
 ![](https://komarev.com/ghpvc/?username=gdavisiv&color=brightgreen)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=gdavisiv)
