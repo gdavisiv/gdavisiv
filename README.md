@@ -5,13 +5,13 @@
 
 </br>
 <p align="center">
-<a href="https://www.linkedin.com/in/gdavisiv/" target="_blank">
-<img alt="George Davis IV on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40">
-</a>
-</br>
-<a href="https://www.3dmations.com/" target="_blank">
-<img alt="3DMations | Software Engineering" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/245798b5-86d9-43d5-800e-34afb9aa993a" width="40" height="40">
-</a>
+  <a href="https://www.linkedin.com/in/gdavisiv/" target="_blank"> 
+    <img alt="George Davis IV on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40"> 
+  </a>
+  
+  <a href="https://www.3DMations.com" target="_blank">
+    <img alt="3DMations | Software Engineering" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/245798b5-86d9-43d5-800e-34afb9aa993a" width="40" height="40">
+  </a>
 </p>
 
 Things you should know about me:
