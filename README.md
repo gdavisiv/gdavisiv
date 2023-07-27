@@ -50,7 +50,7 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
 - 👨🏽‍💻 <b>My Business:</b><a href="https://www.3DMations.com">  3DMations.com</a>
-- 🤓 <b>UpWork:</b><a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b">  UpWork.com</a>
+- 💻 <b>UpWork:</b><a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b">  UpWork.com</a>
 - 🤖 <b>My Portfolio:</b><a href="https://www.gdavisiv.me">  GDavisIV.me</a>
 - 📫 <b>Contact me here:</b><a href="mailto:gdavisiv.dev@gmail.com" target="_blank"> GDavisIV.Dev@gmail.com</a>
 
