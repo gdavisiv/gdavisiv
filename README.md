@@ -26,7 +26,7 @@ Leader with extensive experience in Digital Strategy and Information Systems. Ge
 
 </br>
 
-- 🌱 My Skills 🌱
+🌱 My Skills 🌱
 
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=reactjs&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Three.js-informational?style=flat&logo=threejs&logoColor=white&color=3bac3a)
