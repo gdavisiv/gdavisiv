@@ -9,7 +9,7 @@
     <img alt="George Davis IV on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40"> 
   </a>
     <a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b" target="_blank"> 
-    <img alt="George Davis IV on UpWork" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8194060a-2e92-417a-ba98-5b9f1e947183" width="38" height="38"> 
+    <img alt="George Davis IV on UpWork" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8194060a-2e92-417a-ba98-5b9f1e947183" width="38" height="38" border-radius= "25px"> 
   </a>
 </p>
 
