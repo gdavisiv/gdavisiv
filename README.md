@@ -9,13 +9,13 @@
     <img alt="George Davis IV on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40"> 
   </a>
     <a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b" target="_blank"> 
-    <img alt="George Davis IV on UpWork" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8194060a-2e92-417a-ba98-5b9f1e947183" width="38" height="38" border-radius= "25px"> 
+    <img alt="George Davis IV on UpWork" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8194060a-2e92-417a-ba98-5b9f1e947183" width="38" height="38"> 
   </a>
 </p>
 
 Things you should know about me:
 
-Leader with extensive experience in Digital Strategy and Information Systems. George is a charismatic business professional with an innovative mindset who brings over +10 years of experience managing Digital Media technology for Websites, iOS Apps, UX/UI Design, 3D/AR/VR, videography and photography. He has demonstrated expertise in transitioning a vision into the digital products needed, in an ever evolving digital world, by building and developing high performance cross-functional technical processes and teams. 
+A leader with extensive experience in Digital Strategy and Information Systems. George is a charismatic business professional with an innovative mindset who brings over +10 years of experience managing Digital Media Technology for Websites, iOS Apps, UX/UI Design, 3D/AR/VR, videography and photography. He has demonstrated expertise in transitioning a vision into the digital products needed in an ever-evolving digital world by building and developing high-performance cross-functional technical processes and teams. 
 
 </br>
 
