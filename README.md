@@ -5,14 +5,10 @@
 
 </br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gdavisiv/" target="_blank"> 
-    <img src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b" target="_blank"> 
-    <img src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8194060a-2e92-417a-ba98-5b9f1e947183" width="37" height="37"/>
-  </a>
+<a href="https://www.linkedin.com/in/gdavisiv/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40"/></a>
+<a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b" target="_blank"><img src="https://user-images.githubusercontent.com/7787759/260731539-8194060a-2e92-417a-ba98-5b9f1e947183.jpg" width="37"/></a>
 </p>
+
 
 Things you should know about me:
 
