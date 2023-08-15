@@ -6,10 +6,11 @@
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/gdavisiv/" target="_blank"> 
-    <img alt="George Davis IV on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40"> 
+    <img alt="George Davis IV on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40"/>
   </a>
-    <a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b" target="_blank"> 
-    <img alt="George Davis IV on UpWork" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8194060a-2e92-417a-ba98-5b9f1e947183" width="38" height="38"> 
+
+  <a href="https://www.upwork.com/freelancers/~016f6ad97a8227b98b" target="_blank"> 
+    <img alt="George Davis IV on UpWork" src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8194060a-2e92-417a-ba98-5b9f1e947183" width="37" height="37"/>
   </a>
 </p>
 
