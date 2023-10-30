@@ -17,7 +17,9 @@ A leader with extensive experience in Digital Strategy and Information Systems. 
 </br>
 
 📜 Certs 📜
-<img src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8392bdd8-184b-4046-913b-6ce75e8adab1" width="40"/>
+<p>
+<img src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8392bdd8-184b-4046-913b-6ce75e8adab1" width="80"/>
+</p>
 
 </br>
 
