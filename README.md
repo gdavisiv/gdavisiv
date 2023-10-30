@@ -1,7 +1,7 @@
 
 <h3 align="center">Hey! 👋 This is George Davis IV. 😄 </h3>
 
-<h4 align="center">Full Stack 3D Web Dev, and Computer Vision AI/ML Enthusiast</h4>
+<h4 align="center">Full Stack 3D Web Dev, specializing in ThreeJS, WebGL, Computer Vision and an AI/ML Enthusiast</h4>
 
 </br>
 <p align="center">
