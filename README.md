@@ -22,7 +22,9 @@ A leader with extensive experience in Digital Strategy and Information Systems. 
 
 </br>
 </br>
-🧰 Tools:
+🧰 Tools
+</br>
+</br>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="35" src="https://forums.kali.org/images/misc/kali-2.0-logo-TM.png"></code>
