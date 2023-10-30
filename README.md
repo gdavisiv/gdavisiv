@@ -16,13 +16,14 @@ A leader with extensive experience in Digital Strategy and Information Systems. 
 
 </br>
 
-📜 Certs 📜
+📜 Certs:
 <p>
 <img src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8392bdd8-184b-4046-913b-6ce75e8adab1" width="100"/>
 </p>
 
 </br>
-#### Tools:
+
+🧰 Tools:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="35" src="https://forums.kali.org/images/misc/kali-2.0-logo-TM.png"></code>
 <code><img height="35" src="https://git-scm.com/images/logos/logomark-white@2x.png"></code>
@@ -32,7 +33,7 @@ A leader with extensive experience in Digital Strategy and Information Systems. 
 
 </br>
 
-🌱 My Skills 🌱
+🌱 My Skills:
 
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=reactjs&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Three.js-informational?style=flat&logo=threejs&logoColor=white&color=3bac3a)
