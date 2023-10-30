@@ -21,7 +21,7 @@ A leader with extensive experience in Digital Strategy and Information Systems. 
 <img src="https://github.com/gdavisiv/gdavisiv/assets/7787759/8392bdd8-184b-4046-913b-6ce75e8adab1" width="100"/>
 
 </br>
-
+</br>
 🧰 Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -61,5 +61,6 @@ A leader with extensive experience in Digital Strategy and Information Systems. 
 - 🤖 <b>My Portfolio:</b><a href="https://www.gdavisiv.me">  GDavisIV.me</a>
 - 📫 <b>Contact me here:</b><a href="mailto:gdavisiv.dev@gmail.com" target="_blank"> GDavisIV.Dev@gmail.com</a>
 
+</br>
 
 ![](https://komarev.com/ghpvc/?username=gdavisiv&color=brightgreen)
